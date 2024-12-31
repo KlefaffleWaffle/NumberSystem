@@ -6,4 +6,6 @@ While I generally try to avoid python due to the fact that it's dynamically type
 
 While my .py file can be found on this repository, an executable will be coming soon.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/KlefaffleWaffle/NumberSystem/blob/main/Python%20Calc%20A.png "Logo Title Text 1")
+
+![alt text](https://github.com/KlefaffleWaffle/NumberSystem/blob/main/Python%20Calc%20B.png "Logo Title Text 1")
